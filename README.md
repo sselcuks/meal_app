@@ -1,10 +1,10 @@
-# meal_app
 
-A new Flutter project.
 
 ## Getting Started
 
-### This is a sample project
+I've use different type of widget in that project to understand how they work.
+
+
 
 
 <img src="images/4.png" width=200 align=right>
